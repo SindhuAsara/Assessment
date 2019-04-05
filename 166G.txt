@@ -1,0 +1,5 @@
+git workflow:
+Fork the remote repository to make a local repository
+clone your local repository to your local workspace by using git clone 
+Do the the changes locally and do git pull from your remote repository to get all the changes 
+Then push your changes in workspace  to your local repository,from local repository to your remote respository

@@ -1,0 +1,2 @@
+git pull will do git fetch followed by git merge
+git pull will get all the changes from remote repository and merge it into local where as git fetch will get all the changes and it will not be merged to your local,

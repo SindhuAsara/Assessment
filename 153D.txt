@@ -1,0 +1,2 @@
+To view list of running containers -  docker ps
+To terminate one or more containers -  docker rm -f $(docker ps -aq)
